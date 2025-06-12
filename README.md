@@ -9,7 +9,7 @@ Repositório com os exercícios do curso da Alura, finalizado em 12/06/2025.
 - `calculadora.py` – Calculadora básica  
 - `contador.py` – Contador numérico  
 - `gorjeta.py` – Cálculo de gorjeta  
-- `main.py` – Arquivo principal  
+- `main.py` – Contador de palavras  
 - `palavras.py` – Manipulação de palavras  
 - `pedra_papel_tesoura.py` – Jogo de pedra, papel e tesoura  
 - `random_number.py` – Números aleatórios  
